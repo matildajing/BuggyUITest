@@ -16,7 +16,7 @@ How to execute the tests
         * your machine dotnet address/dotnet test -l:html;
         * Check report under <Project root path>/TestResults/
     * From Windows
-        * <your machine dotnet address>\dotnet test -l:html;
+        * your machine dotnet address\dotnet test -l:html;
         * Check report under <Project root path>\TestResults\
 
 
