@@ -1,0 +1,27 @@
+﻿2023-01-31T17:02:58.4865550+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2023-01-31T17:02:58.4866090+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.31 in Framework netcore31 in x64 mode execution started
+2023-01-31T17:02:58.4866190+08:00;VSTestExecutionThread;Info;TestAdapter Location: /Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2023-01-31T17:02:58.4867270+08:00;VSTestExecutionThread;Info;Current UserName: 'admin', MachineName: 'admindeiMac'
+2023-01-31T17:02:58.5832880+08:00;VSTestExecutionThread;Info;SpecRun: running tests in /Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.dll
+2023-01-31T17:02:58.5834910+08:00;VSTestExecutionThread;Info;Output folder configured to "/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/TestResults" (default)
+2023-01-31T17:02:58.5835480+08:00;VSTestExecutionThread;Info;Profile: TestApplication.UiTests
+2023-01-31T17:02:58.6110470+08:00;VSTestExecutionThread;Info;Log file path: /Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/TestResults/TestApplication.UiTests_TestApplication.UiTests_2023-01-31T170258.log
+2023-01-31T17:02:58.6159570+08:00;Thread#12;Info;Checking activation
+2023-01-31T17:03:02.3175520+08:00;Thread#12;Error;****************************************************************************************************************
+2023-01-31T17:03:02.3181620+08:00;Thread#12;Error;*                                           SpecFlow+ Runner                                                   *
+2023-01-31T17:03:02.3182530+08:00;Thread#12;Error;****************************************************************************************************************
+2023-01-31T17:03:02.3184580+08:00;Thread#12;Error;Please sign-up for your free SpecFlow account or sign-in with your already existing account here:
+2023-01-31T17:03:02.3185660+08:00;Thread#12;Error;https://account.specflow.org/clientactivation/welcome/Runner/2DB3F5BD2AEF40D28F99F3B14C5D4EF547F2816F25DE8C4E954824BBC6F6488167DDBCD1/NotActivatedYet
+2023-01-31T17:03:02.3186070+08:00;Thread#12;Error;to execute your Scenarios again.
+2023-01-31T17:03:02.3187270+08:00;Thread#12;Error;If you are reading this message on a build agent, we couldn't recognize the agent.
+2023-01-31T17:03:02.3187710+08:00;Thread#12;Error;Please get in touch with us at support@specflow.org.
+2023-01-31T17:03:02.3189080+08:00;Thread#12;Error;****************************************************************************************************************
+2023-01-31T17:03:02.3220100+08:00;Thread#12;Error;No tests executed (activation needed)
+2023-01-31T17:03:02.3362750+08:00:Total: 0
+2023-01-31T17:03:02.3376330+08:00:Succeeded: 0
+2023-01-31T17:03:02.3378680+08:00:Ignored: 0
+2023-01-31T17:03:02.3380840+08:00:Pending: 0
+2023-01-31T17:03:02.3386570+08:00:Skipped: 0
+2023-01-31T17:03:02.3388850+08:00:Failed: 0
+2023-01-31T17:03:02.3430750+08:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

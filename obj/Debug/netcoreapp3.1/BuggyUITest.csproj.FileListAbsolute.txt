@@ -1,0 +1,251 @@
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/LivingDoc.Dtos.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/LivingDoc.SpecFlowPlugin.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.engine.core.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/selenium-manager/linux/selenium-manager
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/selenium-manager/macos/selenium-manager
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/selenium-manager/windows/selenium-manager.exe
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.deps.json
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.runtimeconfig.json
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.runtimeconfig.dev.json
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.pdb
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/BoDi.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/FluentAssertions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Gherkin.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/SpecFlow.Internal.Json.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.AssemblyInfoInputs.cache
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.AssemblyInfo.cs
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.csproj.CopyComplete
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.dll
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.pdb
+/Users/admin/Documents/2023/projects/Buggy/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.genruntimeconfig.cache
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/LivingDoc.Dtos.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/LivingDoc.SpecFlowPlugin.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.engine.core.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/selenium-manager/linux/selenium-manager
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/selenium-manager/macos/selenium-manager
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/selenium-manager/windows/selenium-manager.exe
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/test-settings.json
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.deps.json
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.runtimeconfig.json
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.runtimeconfig.dev.json
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.pdb
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BoDi.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/FluentAssertions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Gherkin.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/TechTalk.SpecFlow.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/SpecFlow.Internal.Json.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.AssemblyInfoInputs.cache
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.AssemblyInfo.cs
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.csproj.CoreCompileInputs.cache
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.csproj.CopyComplete
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.dll
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.pdb
+/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/obj/Debug/netcoreapp3.1/BuggyUITest.genruntimeconfig.cache

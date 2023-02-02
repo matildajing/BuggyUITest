@@ -1,0 +1,309 @@
+﻿<html xmlns:tp="http://schemas.datacontract.org/2004/07/Microsoft.VisualStudio.TestPlatform.Extensions.HtmlLogger.ObjectModel" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+  <body>
+    <h1>Test run details</h1>
+    <div class="summary">
+      <div class="block"><span>Total tests</span><div class="total-tests">7</div><br></div>
+      <div class="block"><span>Passed  : </span><span class="passedTests">5</span><br><span>Failed  : </span><span class="failedTests">2</span><br><span>Skipped : </span><span class="skippedTests">0</span><br></div>
+      <div class="block"><span>Pass percentage</span><div class="pass-percentage">71 %</div><br></div>
+      <div class="block"><span>Run duration</span><div class="test-run-time">1m 11s</div><br></div><br></div>
+    <h2>Failed Results</h2>
+    <div class="list-row" onclick="ToggleClass('1126434817-failedResult')">/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.dll</div>
+    <div class="inner-row" Id="1126434817-failedResult" style="display:block;">
+      <div class="leaf-division">
+        <div><span class="fail">✘</span><span> AsAExistedUserIWantToRegisterAgain</span><div class="duration"><span>10s 154ms</span><br></div>
+        </div>
+        <div class="error-info">
+    Error: <span class="error-message"><pre>  Expected string length 100 but was 44. Strings differ at index 0.
+  Expected: "InvalidPasswordException: Password did not conform with polic..."
+  But was:  "UsernameExistsException: User already exists"
+  -----------^
+</pre></span><br>
+    Stack trace: <span class="error-stack-trace"><pre>   at BuggyUITest.Steps.RegisterSteps.ThenGetRegisterErrorMessage(String message) in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Steps/RegisterSteps.cs:line 109
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at BuggyUITest.Features.RegisterFeature.ScenarioCleanup()
+   at BuggyUITest.Features.RegisterFeature.AsAExistedUserIWantToRegisterAgain() in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Features/Register.feature:line 26
+</pre></span><br></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="fail">✘</span><span> AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter("1","true","false","false","InvalidPasswordException: Password did not conform with policy: Password not long enough",null)</span><div class="duration"><span>8s 716ms</span><br></div>
+        </div>
+        <div class="error-info">
+    Error: <span class="error-message"><pre>  Expected string length 95 but was 88. Strings differ at index 9.
+  Expected: "InvalidParameter: 1 validation error(s) found. - minimum fiel..."
+  But was:  "InvalidPasswordException: Password did not conform with polic..."
+  --------------------^
+</pre></span><br>
+    Stack trace: <span class="error-stack-trace"><pre>   at BuggyUITest.Steps.RegisterSteps.ThenGetRegisterErrorMessage(String message) in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Steps/RegisterSteps.cs:line 109
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at BuggyUITest.Features.RegisterFeature.ScenarioCleanup()
+   at BuggyUITest.Features.RegisterFeature.AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter(String length, String hasUpper, String hasLower, String hasSpecial, String errormessage, String[] exampleTags) in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Features/Register.feature:line 35
+</pre></span><br></div>
+      </div>
+    </div>
+    <h2>All Results</h2>
+    <div class="list-row" onclick="ToggleClass('1126434817')">/Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.dll</div>
+    <div class="inner-row" Id="1126434817" style="display:none;">
+      <div class="leaf-division">
+        <div><span class="fail">✘</span><span> AsAExistedUserIWantToRegisterAgain</span><div class="duration"><span>10s 154ms</span><br></div>
+        </div>
+        <div class="error-info">
+    Error: <span class="error-message"><pre>  Expected string length 100 but was 44. Strings differ at index 0.
+  Expected: "InvalidPasswordException: Password did not conform with polic..."
+  But was:  "UsernameExistsException: User already exists"
+  -----------^
+</pre></span><br>
+    Stack trace: <span class="error-stack-trace"><pre>   at BuggyUITest.Steps.RegisterSteps.ThenGetRegisterErrorMessage(String message) in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Steps/RegisterSteps.cs:line 109
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at BuggyUITest.Features.RegisterFeature.ScenarioCleanup()
+   at BuggyUITest.Features.RegisterFeature.AsAExistedUserIWantToRegisterAgain() in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Features/Register.feature:line 26
+</pre></span><br></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="fail">✘</span><span> AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter("1","true","false","false","InvalidPasswordException: Password did not conform with policy: Password not long enough",null)</span><div class="duration"><span>8s 716ms</span><br></div>
+        </div>
+        <div class="error-info">
+    Error: <span class="error-message"><pre>  Expected string length 95 but was 88. Strings differ at index 9.
+  Expected: "InvalidParameter: 1 validation error(s) found. - minimum fiel..."
+  But was:  "InvalidPasswordException: Password did not conform with polic..."
+  --------------------^
+</pre></span><br>
+    Stack trace: <span class="error-stack-trace"><pre>   at BuggyUITest.Steps.RegisterSteps.ThenGetRegisterErrorMessage(String message) in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Steps/RegisterSteps.cs:line 109
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at BuggyUITest.Features.RegisterFeature.ScenarioCleanup()
+   at BuggyUITest.Features.RegisterFeature.AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter(String length, String hasUpper, String hasLower, String hasSpecial, String errormessage, String[] exampleTags) in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/Features/Register.feature:line 35
+</pre></span><br></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="pass">✔</span><span> AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter("7","true","true","true","InvalidPasswordException: Password did not conform with policy: Password not long enough",null)</span><div class="duration"><span>9s 599ms</span><br></div>
+        </div>
+        <div class="error-info"></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="pass">✔</span><span> AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter("8","false","true","true","InvalidPasswordException: Password did not conform with policy: Password must have uppercase characters",null)</span><div class="duration"><span>8s 643ms</span><br></div>
+        </div>
+        <div class="error-info"></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="pass">✔</span><span> AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter("9","true","false","true","InvalidPasswordException: Password did not conform with policy: Password must have lowercase characters",null)</span><div class="duration"><span>9s 601ms</span><br></div>
+        </div>
+        <div class="error-info"></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="pass">✔</span><span> AsANewUserIWantToRegisterWithNotNotProperPasswordPasswordMinimum8Characters_1Uppercase1Lowercase1SpecialCharacter("10","true","true","false","InvalidPasswordException: Password did not conform with policy: Password must have symbol characters",null)</span><div class="duration"><span>10s 247ms</span><br></div>
+        </div>
+        <div class="error-info"></div>
+      </div>
+      <div class="leaf-division">
+        <div><span class="pass">✔</span><span> RegisterFlowWorkProperly("auto_test_","k_first","k_last","1234Qwe!",null)</span><div class="duration"><span>12s 167ms</span><br></div>
+        </div>
+        <div class="error-info"></div>
+      </div>
+    </div>
+    <div>
+      <h2>Informational messages</h2><span>NUnit Adapter 3.17.0.0: Test execution started</span><br><span>Running all tests in /Users/jing.liang/Documents/personal/southern cross/project/BuggyUITest/bin/Debug/netcoreapp3.1/BuggyUITest.dll</span><br><span>   NUnit3TestExecutor discovered 7 of 7 NUnit test cases</span><br><span>Given I am on the register page
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheRegisterPage() (6.4s)
+When I fill all fields except with existed user_name: auto_test
+userName is auto_test, password is 4l2bpjGPNB
+-&gt; done: RegisterSteps.WhenFillExistedUsername("auto_test") (0.7s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.1s)
+Then I should get error message: UsernameExistsException: User already exists
+error message is: InvalidPasswordException: Password did not conform with policy: Password must have symbol characters
+-&gt; error:   Expected string length 100 but was 44. Strings differ at index 0.
+  Expected: "InvalidPasswordException: Password did not conform with polic..."
+  But was:  "UsernameExistsException: User already exists"
+  -----------^
+ (2.8s)
+</span><br><span>Given I am on the register page
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheRegisterPage() (5.2s)
+When I fill all fields except with improper password requirement, length: 1, hasUpper: true, hasLower: false, hasSpecial: false
+userName is auto_test23ewBNM0bD, password is 6B
+-&gt; done: RegisterSteps.WhenFillRegistrationFieldsRightExceptPassword(1, "true", "false", "false") (0.6s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.1s)
+Then I should get error message: InvalidPasswordException: Password did not conform with policy: Password not long enough
+error message is: InvalidParameter: 1 validation error(s) found. - minimum field size of 6, SignUpInput.Password.
+-&gt; error:   Expected string length 95 but was 88. Strings differ at index 9.
+  Expected: "InvalidParameter: 1 validation error(s) found. - minimum fiel..."
+  But was:  "InvalidPasswordException: Password did not conform with polic..."
+  --------------------^
+ (2.6s)
+</span><br><span>Given I am on the register page
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheRegisterPage() (5.4s)
+When I fill all fields except with improper password requirement, length: 7, hasUpper: true, hasLower: true, hasSpecial: true
+userName is auto_test7mi2yzT8JS, password is 03b8`Oi
+-&gt; done: RegisterSteps.WhenFillRegistrationFieldsRightExceptPassword(7, "true", "true", "true") (0.6s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.1s)
+Then I should get error message: InvalidPasswordException: Password did not conform with policy: Password not long enough
+error message is: InvalidPasswordException: Password did not conform with policy: Password not long enough
+-&gt; done: RegisterSteps.ThenGetRegisterErrorMessage("InvalidPasswordEx...") (3.3s)
+</span><br><span>Given I am on the register page
+Connection refused
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheRegisterPage() (5.5s)
+When I fill all fields except with improper password requirement, length: 8, hasUpper: false, hasLower: true, hasSpecial: true
+userName is auto_test0hkyuJWujV, password is 44n4i575
+-&gt; done: RegisterSteps.WhenFillRegistrationFieldsRightExceptPassword(8, "false", "true", "true") (0.6s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.3s)
+Then I should get error message: InvalidPasswordException: Password did not conform with policy: Password must have uppercase characters
+error message is: InvalidPasswordException: Password did not conform with policy: Password must have uppercase characters
+-&gt; done: RegisterSteps.ThenGetRegisterErrorMessage("InvalidPasswordEx...") (2.1s)
+</span><br><span>Given I am on the register page
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheRegisterPage() (5.6s)
+When I fill all fields except with improper password requirement, length: 9, hasUpper: true, hasLower: false, hasSpecial: true
+userName is auto_test3fbpwktx0a, password is 147*^7.9&amp;
+-&gt; done: RegisterSteps.WhenFillRegistrationFieldsRightExceptPassword(9, "true", "false", "true") (0.6s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.1s)
+Then I should get error message: InvalidPasswordException: Password did not conform with policy: Password must have lowercase characters
+error message is: InvalidPasswordException: Password did not conform with policy: Password must have lowercase characters
+-&gt; done: RegisterSteps.ThenGetRegisterErrorMessage("InvalidPasswordEx...") (3.1s)
+</span><br><span>Given I am on the register page
+Connection refused
+Connection refused
+Connection refused
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheRegisterPage() (5.3s)
+When I fill all fields except with improper password requirement, length: 10, hasUpper: true, hasLower: true, hasSpecial: false
+userName is auto_test0j4CR6MwS0, password is 7fifX5JiXd
+-&gt; done: RegisterSteps.WhenFillRegistrationFieldsRightExceptPassword(10, "true", "true", "false") (0.6s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.1s)
+Then I should get error message: InvalidPasswordException: Password did not conform with policy: Password must have symbol characters
+error message is: InvalidPasswordException: Password did not conform with policy: Password must have symbol characters
+-&gt; done: RegisterSteps.ThenGetRegisterErrorMessage("InvalidPasswordEx...") (4.1s)
+</span><br><span>Given I am on the base page of buggy
+Connection refused
+Connection refused
+-&gt; done: RegisterSteps.GivenIAmOnTheHomePage() (5.6s)
+When I click Register button
+-&gt; done: RegisterSteps.WhenISearchFor() (0.1s)
+Then I should see the page contain Register with Buggy Cars Rating
+-&gt; done: RegisterSteps.ThenIShouldSeeTitle() (0.6s)
+Then Register button status false
+-&gt; done: RegisterSteps.ThenRegisterButtonStatus("false") (0.0s)
+When I fill fields Login: auto_test_, First Name: k_first, Last Name: k_last, Password: 1234Qwe!
+userName is auto_test_45hasvuEdM, password is 1234Qwe!
+-&gt; done: RegisterSteps.WhenFillRegistrationFields("auto_test_", "k_first", "k_last", "1234Qwe!") (0.6s)
+Then Register button is clickable
+-&gt; done: RegisterSteps.ThenRegisterButtonStatusTrue() (0.0s)
+When I click Register submit button
+-&gt; done: RegisterSteps.WhenIClickRegister() (0.1s)
+Then I should get success message: Registration is successful
+-&gt; done: RegisterSteps.ThenGetRegisterSuccessMessage("Registration is s...") (2.0s)
+When I login with just username and 1234Qwe!
+-&gt; done: RegisterSteps.ThenLogin("1234Qwe!") (0.5s)
+Then I should login properly
+-&gt; done: RegisterSteps.ThenCheckHi() (2.5s)
+</span><br><span>NUnit Adapter 3.17.0.0: Test execution complete</span><br></div>
+  </body><script language="javascript">
+        function ToggleClass(id) {
+        var elem = document.getElementById(id);
+        if (elem.style.display == "none") {
+        elem.style.display = "block";
+        }
+        else {
+        elem.style.display = "none";
+        }
+        }
+      </script><style>
+        body { font-family: Calibri, Verdana, Arial, sans-serif; background-color: White; color: Black; }
+        h2 {
+        margin-top: 15px;
+        margin-bottom:10px;
+        }
+        pre {
+        white-space: pre-wrap;
+        }
+        .summary {font-family:monospace;
+        display: -webkit-flex; /* Safari */
+        -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+        display: flex;
+        flex-wrap: wrap;
+        }
+        .row {
+        border: 2px solid #ffffff;
+        width:100%;
+        cursor:pointer;
+        background-color:#d7e9fa;
+        }
+        .list-row {
+        border: 2px solid #ffffff;
+        width:100%;
+        cursor:pointer;
+        background-color:#ffffff;
+        }
+        .inner-row{
+        border: 2px solid #ffffff;
+        padding-left:1%;
+        margin-left:1%;
+        background-color:#ffffff;
+        }
+        .block{
+        width : 150px;
+        }
+        .leaf-division{
+        border: 2px solid #ffffff;
+        background-color:#e6eff7;
+        }
+        .pass { color: #0c0; }
+        .fail { color: #c00; }
+        .error-message { color : brown; }
+        .error-stack-trace { color: brown; }
+        .duration {float:right;padding-right:1%;}
+        .total-tests { font-size : 30px}
+        .test-run-time { font-size : 30px}
+        .pass-percentage { font-size : 30px}
+        .error-info{
+        margin-left:16px;
+        }
+      </style>
+</html>
