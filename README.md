@@ -13,7 +13,7 @@ Pre-requisites and tools
 How to execute the tests
 1. Run test with command
     * From Mac
-        * <your machine dotnet address>/dotnet test -l:html;
+        * your machine dotnet address/dotnet test -l:html;
         * Check report under <Project root path>/TestResults/
     * From Windows
         * <your machine dotnet address>\dotnet test -l:html;
